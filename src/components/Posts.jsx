@@ -21,7 +21,7 @@ const Posts=()=>{
       <CardMedia
         component="img"
         height="190"
-        image="components/booked.png"
+        image="booked.png"
         alt="Marks" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
