@@ -21,7 +21,7 @@ const Posts=()=>{
       <CardMedia
         component="img"
         height="190"
-        image="public/logo192.png"
+        image="my-react-app/public/logo192.png"
         alt="Description" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
