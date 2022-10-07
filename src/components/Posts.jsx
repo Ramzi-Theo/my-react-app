@@ -22,7 +22,7 @@ const Posts=()=>{
         component="img"
         height="190"
         image="components/booked.png"
-        alt="Marks" />
+        alt="Description" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
           This impressive paella is a perfect party dish and a fun meal to cook
