@@ -21,7 +21,7 @@ const Posts=()=>{
       <CardMedia
         component="img"
         height="190"
-        image="components/nature.webp"
+        image="public/logo192.png"
         alt="Description" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
