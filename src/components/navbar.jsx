@@ -20,7 +20,7 @@ const Navbar=()=>{
     return(
         <AppBar position="sticky">
             <StyledToolbar>
-                <Typography variant="h5">Navbar</Typography>
+                <Typography variant="h5">Ramzi</Typography>
                 <Search><InputBase placeholder="Search...." /></Search>
                 <Icons>
                 <Badge badgeContent={3} color="error">

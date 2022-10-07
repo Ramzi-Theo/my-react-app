@@ -4,7 +4,7 @@ import Feed from "./components/feed";
 import Navbar from "./components/navbar";
 import Rightbar from "./components/rightbar";
 import Sidebar from "./components/sidebar";
-
+import Add from "./components/Add";
 function App(){
   return(
     <Box>
@@ -14,6 +14,7 @@ function App(){
       <Feed />
       <Rightbar />
       </Stack>
+      <Add />
     </Box>
   )
 }

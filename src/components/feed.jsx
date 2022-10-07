@@ -7,6 +7,9 @@ const Feed=()=>{
         <Posts />
         <Posts />
         <Posts />
+        <Posts />
+        <Posts />
+        <Posts />
   </Box>
     )  
 }
