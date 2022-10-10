@@ -21,7 +21,7 @@ const Posts=()=>{
       <CardMedia
         component="img"
         height="190"
-        image="my-react-app/public/logo192.png"
+        image="https://www.swan-brand.co.uk/wp-content/uploads/2022/10/c34c7af8698abe2cabd2500f302cbd7c-895x775-c-default.jpg"
         alt="Description" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
